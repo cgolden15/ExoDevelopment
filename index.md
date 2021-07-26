@@ -11,4 +11,4 @@ The Professor is a discord bot for getting Hypixel user Minigame and guild stats
 A simple website to help you get the upper hand in Hypixel's "Guess the Build" minigame. Found [here](https://cgolden15.github.io/guess-the-build/)
 
 # Contact us!
-Want to get in contact with us? Check out our discord [here](https://discord.link/ExoDev)!
+Want to get in contact with us? Check out our discord [here](https://discord.link/ExoDev)! Alternatively leave us a message on our Github! To contact a specific team member, check out the team members page!

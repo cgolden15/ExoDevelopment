@@ -12,3 +12,5 @@ A simple website to help you get the upper hand in Hypixel's "Guess the Build" m
 
 # Contact us!
 Want to get in contact with us? Check out our discord [here](https://discord.link/ExoDev)!
+
+https://discord.com/api/guilds/427007974947553280/widget.json

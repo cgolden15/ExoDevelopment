@@ -2,7 +2,7 @@
 Here at Exo Development we have an expanding list of Applications for your use. Founded on 12/02/2019 by Golden!!#8008, Exo Development has slowly evolved into what we are today. Come join us on [Discord](https://discord.gg/RCZhvdDJG8) for more information! 
 
 # Projects:
-Currently Exo Development has released the following,
+Currently Exo Development has released the following public projects,
 
 ## The Professor: [![Discord Bots](https://top.gg/api/widget/status/652902118151421974.svg)](https://top.gg/bot/652902118151421974)
 The Professor is a discord bot for getting Hypixel user Minigame and guild stats! More information [here](https://top.gg/bot/652902118151421974)!

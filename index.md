@@ -1,5 +1,10 @@
 # Welcome to Exo Development!
-Here at Exo Development we have an expanding list of Applications for your use. Founded on 12/02/2019 by Golden!!#8008, Exo Development has slowly evolved into what we are today. Come join us on [Discord](https://discord.gg/RCZhvdDJG8) for more information! 
+Here at Exo Development we have an expanding list of Applications for your use. Founded on 12/02/2019 by Golden!!#8008, Exo Development has slowly evolved into dedicated team ready to bring your creations to life! Come join us on [Discord](https://discord.gg/RCZhvdDJG8) for more information! 
+
+# Discord Bot Development & Hosting
+
+## Development Comissions:
+Exo Development is currently open for Discord bot comissions! We currently have over 10 active bots serving over 40,000 users! Join our server to 
 
 # Projects:
 Currently Exo Development has released the following public projects,

@@ -4,7 +4,7 @@ Here at Exo Development we have an expanding list of Applications for your use. 
 # Discord Bot Development & Hosting
 
 ## Development Comissions:
-Exo Development is currently open for Discord bot comissions! We currently have over 10 active bots serving over 40,000 users! Join our server to 
+Exo Development is currently open for Discord bot comissions! We currently have over 10 active bots serving over 40,000 users! Join our [Discord Server](https://discord.link/ExoDev) to get in contact with us for pricing and more information!
 
 # Projects:
 Currently Exo Development has released the following public projects,
@@ -17,5 +17,7 @@ The Professor is a discord bot for getting Hypixel user Minigame and guild stats
 A simple website to help you get the upper hand in Hypixel's "Guess the Build" minigame. Found [here](https://cgolden15.github.io/guess-the-build/)
 ![Webpage](https://github.com/cgolden15/Assets/blob/main/assets/Screenshot_15.png?raw=true)
 
+## 
+
 # Contact us!
-Want to get in contact with us? Check out our discord [here](https://discord.link/ExoDev)! Alternatively leave us a message on our Github! To contact a specific team member, check out the team members page!
+Want to get in contact with us? Check out our discord [here](https://discord.link/ExoDev)! Alternatively Send us [an email](mailto:golden@goldendev.tech) 

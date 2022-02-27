@@ -894,6 +894,7 @@ footer {
 	border-top: 1px solid #303030;
 	padding: 45px 0;
 	background: #fff;
+	bottom:0; width:100%
 }
 .social a:hover {
 	color: #000;

@@ -263,7 +263,6 @@ color:#F89F9F;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
 /*background-color: #008E4D;*/
-;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
 	background: #008E4D;
@@ -333,7 +332,7 @@ color:#F89F9F;
 	line-height: 90px !important;
 }
 #section-strapline {
-	background: #f00bfff;
+	background: #f00bff;
 	line-height: 42px;
 	clear: both;
 }
